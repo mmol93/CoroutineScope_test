@@ -1,7 +1,7 @@
 # CoroutineScope_test
 
 * 강의 보고 배운 것을 복습하기 위해 만들었음
-* 참조한 부분은 https://github.com/mmol93/ViewModel_Udemy 의 ViewModelFactory Branch임
+* 참조한 부분은 https://github.com/mmol93/ViewModel_Udemy 의 CoroutineScope Branch임
 
 * #### 기본적으로 데이터를 Coroutine으로 처리하고 해당 결과를 liveData로써 바로 반영하는 방법을 보여주는 예시다
 
